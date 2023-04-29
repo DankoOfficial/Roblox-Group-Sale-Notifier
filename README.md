@@ -11,4 +11,5 @@ Made this when I was bored, decided to release it for free.
 
 [Making a discord webhook](https://www.youtube.com/watch?v=i2j4HBFrgEE)
 
+# Star
 Please star ⭐ for more open-source projects like these!
