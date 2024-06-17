@@ -48,6 +48,7 @@ Run the script using Python:
 
 ```bash
 python script.py
+```
 Once the script is running, it will continuously check for new sales and send notifications to the configured Discord webhook.
 📊 Notification Example
 Here is what a sale notification will look like in Discord:
