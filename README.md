@@ -63,5 +63,5 @@ This project is licensed under the MIT License. See the LICENSE file for details
 Contributions, issues, and feature requests are welcome! Feel free to check the issues page if you want to contribute.
 
 💬 Contact
-For support, join our Discord server.
+For support, join our [Discord server](https://discord.gg/zzcYQnXJaN).
 
