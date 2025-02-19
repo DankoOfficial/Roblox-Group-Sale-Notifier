@@ -19,7 +19,7 @@ The **Roblox Group Sale Notifier** is a Python-based script that tracks sales wi
 1. **Clone the repository:**
 
     ```bash
-    git clone https://github.com/yourusername/Roblox-Group-Sale-Notifier.git
+    git clone https://github.com/DankoOfficial/Roblox-Group-Sale-Notifier.git
     cd Roblox-Group-Sale-Notifier
     ```
 
@@ -31,7 +31,7 @@ The **Roblox Group Sale Notifier** is a Python-based script that tracks sales wi
 
 3. **Configure the script:**
 
-    Open the `script.py` file and update the `Stuff` class with your Roblox security cookie, group ID, and Discord webhook URL.
+    Open the `main.py` file and update the `Stuff` class with your Roblox security cookie, group ID, and Discord webhook URL.
 
     ```python
     class Stuff:
@@ -47,7 +47,7 @@ The **Roblox Group Sale Notifier** is a Python-based script that tracks sales wi
 Run the script using Python:
 
 ```bash
-python script.py
+python main.py
 ```
 
 Once the script is running, it will continuously check for new sales and send notifications to the configured Discord webhook.
